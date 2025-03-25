@@ -1,16 +1,22 @@
-# todo
+# Todo App 📋 ✅
 
-A new Flutter project.
+A simple and intuitive todo app that helps users create, edit, complete, and delete tasks to stay organized throughout the day.
 
-## Getting Started
+## Features 🚀  
 
-This project is a starting point for a Flutter application.
+- ✍️ **Create Tasks** – Add new tasks to plan your day.  
+- ✏️ **Edit Tasks** – Modify task details as needed.  
+- ✅ **Mark as Done** – Mark completed tasks to track progress.  
+- ❌ **Delete Tasks** – Remove unwanted tasks easily. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used 🛠️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework** - Flutter
+- **Language** - Dart
+- **State Management** - Provider
+- **Local Storage** - SQLite
+
+## Contributing 🤝
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
