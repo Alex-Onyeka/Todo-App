@@ -1,8 +1,8 @@
-# Todo App 📋 ✅
+## Todo App 📋 ✅
 
 A simple and intuitive todo app that helps users create, edit, complete, and delete tasks to stay organized throughout the day.
 
-## Features 🚀  
+### Features 🚀  
 
 - ✍️ **Create Tasks** – Add new tasks to plan your day.  
 - ✏️ **Edit Tasks** – Modify task details as needed.  
@@ -10,13 +10,13 @@ A simple and intuitive todo app that helps users create, edit, complete, and del
 - ❌ **Delete Tasks** – Remove unwanted tasks easily. 
 
 
-## Technologies Used 🛠️
+### Technologies Used 🛠️
 
 - **Framework** - Flutter
 - **Language** - Dart
 - **State Management** - Provider
 - **Local Storage** - SQLite
 
-## Contributing 🤝
+### Contributing 🤝
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
